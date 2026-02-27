@@ -1,0 +1,5 @@
+{
+  "name": "Mizan Arabic Prosody AI",
+  "description": "An intelligent Arabic poetic meter analyzer using the Mizan algorithm and Gemini AI to detect classical meters, provide prosodic writing, and symbolic patterns.",
+  "requestFramePermissions": []
+}
